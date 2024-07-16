@@ -1,1 +1,5 @@
+# Ignore Scarb build artifacts for hello_world
 hello_world/target
+
+# Ignore Scarb build artifacts for variables
+variables/target/
