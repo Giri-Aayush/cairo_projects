@@ -3,3 +3,6 @@ hello_world/target
 
 # Ignore Scarb build artifacts for variables
 variables/target/
+
+# Ignore Scarb build artifacts for shadowing
+shadowing/target/
