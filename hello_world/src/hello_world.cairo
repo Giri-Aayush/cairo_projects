@@ -1,3 +1,4 @@
-fn main(){
-    println!("Hello World");
+fn main() {
+    let message: ByteArray = "Hello, World!";
+    println!("{}", message);
 }
